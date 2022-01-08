@@ -1,0 +1,26 @@
+OLD
+
+gameplay (scope):
+each round consist of 3 images.
+each image can be voted off if they find the image insulting or boring.
+each category can be veto'd
+after 3 non-skipped images has been seen of one category, the next round begins with a new one.
+ - example:
+   1. category is dogs
+   2. category is people
+   3. category is landscape
+   etc...
+
+each player gets 5 (?) caption cards.
+each card and image is a one-timer and will not be seen again.
+after every image you get a new card
+after every round all unplayed cards are shuffled and redistributed to all players
+
+gameplay (future scope):
+1 card may be thrown away by the player and will instead get 2 cards on the next image
+
+
+new
+
+5 memes på hand
+en caption som ska matchas med memes
